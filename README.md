@@ -12,7 +12,7 @@
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amanda-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh4-1.fna.fbcdn.net/v/t51.2885-19/310717849_750219576168042_6141308213429533308_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcgh4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=1SJqPVj4mnoAX9sDhdK&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9luuOmXl3LRAOJ9vggVIAkInoY6O3pSvHKu9x2m0ZnqQ&oe=634E6692&_nc_sid=8fd12b">
+  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_ZpSp2jbZ.png">
 </div>
    
   ##
