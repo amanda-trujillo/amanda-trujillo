@@ -1,4 +1,4 @@
-### Olá, pessoas! Sou a Amanda Trujillo 😊
+### Olá, tudo bem? Fique a vontade e seja bem vindo(a)! 😊
 
 - 💜 Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas
 - 💜 Foco em FrontEnd 
