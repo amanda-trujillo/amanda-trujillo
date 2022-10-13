@@ -1,4 +1,4 @@
-### Olá, tudo bem? Fique a vontade e seja bem vindo(a)! 😊
+### Olá, sou a Amanda! Fique à vontade e seja bem vindo(a)! 😊
 
 - 💜 Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas
 - 💜 Foco em FrontEnd 
