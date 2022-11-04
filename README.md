@@ -8,9 +8,7 @@
 - 💜 Studying JavaScript, HTML e CSS 
 
 <div align="center">
-   <img width="30%" height="100px" src="https://cdn.discordapp.com/attachments/1011327820762464407/1038109746969968670/gh3.png" alt="Amanda Trujillo" /> 
-
-
+   <img width="37%" height="100px" src="https://cdn.discordapp.com/attachments/1011327820762464407/1038109746969968670/gh3.png" alt="Amanda Trujillo" /> 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amanda-trujillo&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Amanda Trujillo Github Stats" /> 
 </div>
