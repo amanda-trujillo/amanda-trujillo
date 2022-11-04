@@ -1,6 +1,6 @@
   <img src="https://cdn.discordapp.com/attachments/1011327820762464407/1038093626179330068/BANNER_GITHUB.png" alt="Subline's custom image"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!;WELCOME+TO+MY+PROFILE;My+name+is+Amanda;I+am+from+Brazil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=761cc3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!;WELCOME+TO+MY+PROFILE!;My+name+is+Amanda;I+am+from+Brazil+:%29)](https://git.io/typing-svg)
 
 ##
 
