@@ -4,10 +4,10 @@
 
 ##
 
-- 💜 Formada em Análise e Desenvolvimento de Sistemas desde 2024
-- 💜 Em transição de carreira para Desenvolvimento e Inteligência Artificial.  
-- 💜 Atualmente trabalho na Toro Investimentos, no time de IA.
-- 💜 Estudando Python, Node.js e prompt engineering.
+- 💜 Graduated in Systems Analysis and Development (2024).
+- 💜 Transitioning into a career in Development and Artificial Intelligence.
+- 💜 Currently working at Toro Investimentos, part of the AI team.
+- 💜 Studying Python, Node.js, and Prompt Engineering.
 
   <div align="center">
   <div style="display: inline_block"><br>
