@@ -4,10 +4,10 @@
 
 ##
 
-- 💜 I'm 24 years old 
+- 💜 I'm 27 years old 
 - 💜 Graduating in Systems Analysis and Development 
-- 💜 Beginner in FrontEnd 
-- 💜 Studying JavaScript, HTML e CSS 
+- 💜 Beginner in AI 
+- 💜 Studying Python
 
   <div align="center">
   <div style="display: inline_block"><br>
