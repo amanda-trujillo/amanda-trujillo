@@ -5,8 +5,9 @@
 ##
 
 - 💜 Graduated in Systems Analysis and Development (2024).
-- 💜 Currently working at Toro Investimentos, part of the AI team.
+- 💜 Currently working at Toro Investimentos, part of the AI team, supporting the development of prompt-based solutions, intelligent workflows, and internal automation tools.  
 - 💜 My current focus is on leveraging Python to build efficient, AI-driven systems that optimize internal processes.
+- 💜 I’m passionate about bridging technology and business through intelligent automation and user-focused experiences.
 
   <div align="center">
   <div style="display: inline_block"><br>
