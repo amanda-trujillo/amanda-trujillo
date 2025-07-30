@@ -23,8 +23,5 @@
 <div> 
   <a href="https://instagram.com/programands" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amanda-trujillo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.twitter.com/programands" target="_blank"><img src="https://img.shields.io/badge/-Twitter-9400D3?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-        <a href="https://www.tiktok.com/programands" target="_blank"><img src="https://img.shields.io/badge/-Tiktok-9400D3?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
       <a href = "mailto:amanda-trujillo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-9400D3?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:amandatrujillo@uni9.edu.br"><img src="https://img.shields.io/badge/Gmail-9400D3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
