@@ -4,10 +4,10 @@
 
 ##
 
-- 💜 I'm 27 years old 
-- 💜 Graduating in Systems Analysis and Development 
-- 💜 Beginner in AI 
-- 💜 Studying Python
+- 💜 Formada em Análise e Desenvolvimento de Sistemas desde 2024
+- 💜 Em transição de carreira para Desenvolvimento e Inteligência Artificial.  
+- 💜 Atualmente trabalho na Toro Investimentos, no time de IA.
+- 💜 Estudando Python, Node.js e prompt engineering.
 
   <div align="center">
   <div style="display: inline_block"><br>
