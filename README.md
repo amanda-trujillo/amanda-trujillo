@@ -1,4 +1,4 @@
-  <img src="https://media.discordapp.net/attachments/1011327820762464407/1400125182496084069/Copia_de_Copy_of_Blue_Pink_and_White_Modern_LinkedIn_Banner.png?ex=688b7fb0&is=688a2e30&hm=37b72d11b92d5b0d6ec0469dd0b5c78cbda6565beb9ff12feefbebfa7cae073c&=&format=webp&quality=lossless"/>
+  <img src="https://media.discordapp.net/attachments/1011327820762464407/1400125182496084069/Copia_de_Copy_of_Blue_Pink_and_White_Modern_LinkedIn_Banner.png?ex=689df4b0&is=689ca330&hm=65be5eccf672966df0f71cf29f7bd591cf5e0185857f29688f243ae5864d945d&=&format=webp&quality=lossless"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Questrial&pause=1000&color=761CC3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!;WELCOME+TO+MY+PROFILE!;My+name+is+Amanda;I+am+from+Brazil+:%29)](https://git.io/typing-svg)
 
