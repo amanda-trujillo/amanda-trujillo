@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/d89df7d0-3534-449d-bd70-9b566b960af7" />  <img src="https://media.discordapp.net/attachments/1011327820762464407/1400125182496084069/Copia_de_Copy_of_Blue_Pink_and_White_Modern_LinkedIn_Banner.png?ex=68f05a70&is=68ef08f0&hm=fe7ad68f009d90829bbf17e20c6f8ed5bcce1fd40a07fb84336202ab9b857468&=&format=webp&quality=lossless"/>
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/d89df7d0-3534-449d-bd70-9b566b960af7" />  
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Questrial&pause=1000&color=761CC3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!;WELCOME+TO+MY+PROFILE!;My+name+is+Amanda;I+am+from+Brazil+:%29)](https://git.io/typing-svg)
 
