@@ -21,7 +21,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanda-trujillo&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Amanda Trujillo Github Stats" /> 
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amanda-trujillo&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Amanda Trujillo Github Stats" />
+
 </div>
 
 ##
