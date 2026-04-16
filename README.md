@@ -9,7 +9,6 @@
 - 💜 My current focus is on leveraging Python to build efficient, AI-driven systems that optimize internal processes.
 - 💜 I’m passionate about bridging technology and business through intelligent automation and user-focused experiences.
 
-  <div align="center">
   <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Amanda-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
