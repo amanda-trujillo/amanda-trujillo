@@ -45,9 +45,9 @@
 <br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-trujillo&show_icons=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=ffffff&border_color=7c3aed"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amanda-trujillo&show_icons=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=ffffff&border_color=7c3aed"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-trujillo&layout=compact&bg_color=0d1117&title_color=c084fc&text_color=ffffff&border_color=7c3aed"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-trujillo&layout=compact&bg_color=0d1117&title_color=c084fc&text_color=ffffff&border_color=7c3aed"/>
 </div>
 
 ##
