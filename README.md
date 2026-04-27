@@ -9,10 +9,14 @@
 - 💜 My current focus is on leveraging Python to build efficient, AI-driven systems that optimize internal processes.
 - 💜 I’m passionate about bridging technology and business through intelligent automation and user-focused experiences.
 
-<p align="center">
-  <img width="1584" height="396" src="https://github.com/user-attachments/assets/d89df7d0-3534-449d-bd70-9b566b960af7" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Questrial&pause=1000&color=761CC3&size=35&center=true&vCenter=true&width=500&lines=HELLO,+WORLD!;WELCOME+TO+MY+PROFILE!;My+name+is+Amanda;I+am+from+Brazil+:%29" />
-</p>
+<div align="center">
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+</div>
 
 ##
 
